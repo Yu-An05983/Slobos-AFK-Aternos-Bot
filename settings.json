@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "_AFKpepe",
+    "username": "_AFKbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "pepeMC5890.aternos.me",
+    "ip": "jadyensempire.aternos.me",
     "port": 30310,
     "version": "1.21.11",
     "try-creative": false
